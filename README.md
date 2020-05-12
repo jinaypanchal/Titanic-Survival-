@@ -1,2 +1,2 @@
 # Titanic-Survival-
-This task consists of the Data analysis of the people who were died and saved on Titanic , It also gives you the rough prediction of what age group people were saved and died
+The goal of this repository is Data analysis for the Titanic Disaster with the help of Machine Learning. It uses  from [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data) of the people who were died and saved on Titanic , It also gives you the rough prediction of what age group people were saved and died , This IPy notebook answers several questions regarding this Analysis.
